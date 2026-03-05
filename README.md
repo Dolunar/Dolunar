@@ -12,7 +12,7 @@ Don't have a lot of repos (~10), but i test new things everyday and learn by mys
 
 Fun fact : 
   - I'm a dog lover
-  - I began building things when i was 5 using nothing but scotch tape and paper (big fan of origamis also)
+  - I began building things when i was 6 using nothing but scotch tape and paper (big fan of origamis also)
   - I genuinely love connecting with people and believe that an optimistic mindset is the key.
   - Workouts often take a bit longer than planned because I enjoy a good conversation at the gym.
   - Hobbies : Gym, Running and Reading
