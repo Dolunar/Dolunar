@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 !
 
-<!--
-**Dolunar/Dolunar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dolu, a Cybersec Enthusiast, based in France & Luxembourg.
 
-Here are some ideas to get you started:
+I love self improvement, getting better everyday, and building things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Whenever an idea pops into my mind, you can be sure i'll build it asap-
+
+I love all langages for coding.
+
+Don't have a lot of repos (~10), but i test new things everyday and learn by myself with Youtube.
+
+Fun fact : 
+  - I'm a dog guy
+  - I began building things when i was 5 with scotch tape and paper (loved origamis also)
+  - take way too long to finish my workouts because love talking to people at the gym
+  - Hobbies : Gym, Running and Reading
