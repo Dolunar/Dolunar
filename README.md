@@ -1,6 +1,6 @@
 ## Hellooo there 👋 !
 
-I'm Dolunay, a Cybersec Enthusiast, based in France & Luxembourg.
+I'm Dolunay, a Cybersec & IA Enthusiast, based in France & Luxembourg.
 
 I love self improvement, sports, and building things.
 
@@ -8,7 +8,7 @@ Whenever an idea pops into my mind, you can be sure i'll build it asap-
 
 I enjoy all langages for coding my ideas.
 
-Don't have a lot of repos (~10), but i test new things everyday and learn by myself with Youtube.
+Don't have a lot of repos (~10), but i test new things everyday and learn by myself.
 
 Fun fact : 
   - I'm a dog lover
